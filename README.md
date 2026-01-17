@@ -1,2 +1,2 @@
-# FinTrack
+# Argent
 Personal Finance Tracker
